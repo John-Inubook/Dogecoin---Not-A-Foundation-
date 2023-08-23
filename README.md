@@ -1,5 +1,6 @@
 # Not-A-Foundation-
-Information, education and accountability 
+Information, education and accountability ~
+
 Not A Foundation procedures
 
 
