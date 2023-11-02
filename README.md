@@ -1,4 +1,4 @@
-# Not-A-Foundation-
+# Dogecoin - Not-A-Foundation-
 Information, education and accountability ~
 
 ![Dogecoin_Logo](https://github.com/John-Inubook/Dogecoin---Not-A-Foundation-/assets/141597009/5d393480-95b0-4cfa-8a1c-66dd06b3e749)
